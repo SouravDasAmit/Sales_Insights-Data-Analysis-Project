@@ -1,0 +1,2 @@
+# Sales_Insights-Data-Analysis-Project
+The company's database system, named db_sales_insights, initially contained data collected from online sources. Upon conducting an analysis using MySQL queries, several data issues were identified, including garbage values, duplicate entries, and missing data. To address these issues, Power BI transformation tools were employed to clean the data comprehensively. Subsequently, a visually informative dashboard was created in Power BI to present the refined data, providing valuable insights for the company.
